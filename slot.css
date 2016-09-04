@@ -1,0 +1,20 @@
+.reels {
+  margin-top: 20px;
+  margin-bottom: 40px;
+  height: 200px;
+}
+
+.reel {
+  height: 80px;
+  border: 5px solid #999;
+  padding: 0px;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.slot-item {
+  width: 80px;
+  height: 80px;
+  background-position-x: 55%;
+  background-repeat: no-repeat;background-repeat;
+}
